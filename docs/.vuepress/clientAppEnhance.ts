@@ -4,6 +4,6 @@ import 'element-plus/dist/index.css'
 
 export default defineClientAppEnhance(({ app, router, siteData }) => {
     app.use(ElementPlus)
-    app.mount('#app')
+    // app.mount('#app')
 //   app.component('MyComponent', MyComponent)
 })
