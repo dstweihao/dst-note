@@ -1,4 +1,3 @@
-
 ---
 home: true
 heroImage: https://artice-code-1258339218.cos.ap-beijing.myqcloud.com/vuepress/element-index.png
@@ -13,7 +12,7 @@ features:
 footer: by饿了么
 ---
 
-
+<el-button>确定</el-button>
 
 <button @click="count++">点我！</button>
 
