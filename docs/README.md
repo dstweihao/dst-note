@@ -13,7 +13,7 @@ footer: by饿了么
 ---
 
 <el-button>确定</el-button>
-
+<el-button type="primary" :icon="Edit">我是Element-Plus</el-button>
 <button @click="count++">点我！</button>
 
 <script>
