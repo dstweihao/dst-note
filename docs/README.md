@@ -1,5 +1,11 @@
 ---
 home: true
+---
+<Test></Test>
+
+<!-- 
+---
+home: true
 heroImage: https://artice-code-1258339218.cos.ap-beijing.myqcloud.com/vuepress/element-index.png
 heroText: Element
 features:
@@ -10,8 +16,8 @@ features:
 - title: 效率 Efficiency
   details: 界面简单直白，让用户快速识别而非回忆，减少用户记忆负担。
 footer: by饿了么
----
-
+--- -->
+<!-- 
 <el-button>确定</el-button>
 <el-button type="primary" :icon="Edit">我是Element-Plus</el-button>
 <button @click="count++">点我！</button>
@@ -48,4 +54,4 @@ export default {
 .red-div {
   color: red;
 }
-</style>
+</style> -->
