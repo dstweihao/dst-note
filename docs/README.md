@@ -1,57 +1,17 @@
 ---
 home: true
----
-<Test></Test>
-
-<!-- 
----
-home: true
-heroImage: https://artice-code-1258339218.cos.ap-beijing.myqcloud.com/vuepress/element-index.png
-heroText: Element
+heroImage: https://api.xygeng.cn/Bing/
+heroText: DSTWeihao
 features:
-- title: 一致性 Consistency
-  details: 与现实生活一致：与现实生活的流程、逻辑保持一致，遵循用户习惯的语言和概念
-- title: 反馈 Feedback
-  details: 通过界面样式和交互动效让用户可以清晰的感知自己的操作
-- title: 效率 Efficiency
-  details: 界面简单直白，让用户快速识别而非回忆，减少用户记忆负担。
-footer: by饿了么
---- -->
-<!-- 
-<el-button>确定</el-button>
-<el-button type="primary" :icon="Edit">我是Element-Plus</el-button>
-<button @click="count++">点我！</button>
-
-<script>
-import { h, ref } from 'vue'
-
-const RedDiv = (_, ctx) => h(
-  'div',
-  {
-    class: 'red-div',
-  },
-  ctx.slots.default()
-)
-
-export default {
-  components: {
-    RedDiv,
-  },
-
-  setup() {
-    const msg = 'Markdown 中的 Vue'
-    const count = ref(0)
-
-    return {
-      msg,
-      count,
-    }
-  }
-}
-</script>
-
-<style>
-.red-div {
-  color: red;
-}
-</style> -->
+# - title: Android
+#   details: Android开发笔记
+# - title: Flutter
+#   details: Flutter开发
+# - title: Vue
+#   details: Vue3.X开发
+# - title: 读书笔记
+#   details: 各种书籍笔记
+# - title: 计算机基础知识
+#   details: 计算机基础知识巩固
+footer: DSTWeihao
+--- 
